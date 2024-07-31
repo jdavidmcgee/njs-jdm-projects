@@ -1,0 +1,138 @@
+[
+	{
+		"name": "Ignite Next.js Store App",
+		"url": "https://next-store-beta-neon.vercel.app/",
+		"description": "This is a FSSD application with Next.js, React (with TypeScript), Prisma and Supabase (an open source Firebase alternative - built on Postgres database). This app uses server-side rendering, static site generation, and incremental static regeneration. Through the user management authentication framework Clerk, this store enables user registration - including guest user...and sign-in through social media accounts (like github or google). Some of the other technologies used include Tailwind CSS, Shadcn/ui and Radix (both are open-sourced component library) for created components. The store is hosted on Vercel. ",
+		"featured": true,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/ycQjiqSt27hwf04WKsZRl/21656682f37e87674f54cbcdc855c644/nextjsStore.png",
+		"tags": "HTML, CSS, JavaScript, React, TypeScript, Prisma, Supabase DB, Vite, Tailwind CSS, post CSS, Radix, Clerk, Shadcn/ui, Vercel, use-debounce, and JSON"
+	},
+	{
+		"name": "Web Projects App (this app)",
+		"url": "https://next-store-beta-neon.vercel.app/",
+		"description": "This is a FSSD application with Next.js, React (with TypeScript), Prisma and MongoDB.  This app designed to show the projects that I've been working on during the past year. This app uses server-side rendering, static site generation, and incremental static regeneration.  Some of the other technologies used include Tailwind CSS, Shadcn/ui and Radix (both are open-sourced component library) for created components. The store is hosted on Vercel.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/ycQjiqSt27hwf04WKsZRl/21656682f37e87674f54cbcdc855c644/nextjsStore.png",
+		"tags": "HTML, CSS, JavaScript, React, TypeScript, Prisma, Supabase DB, Vite, Tailwind CSS, post CSS, Radix, Clerk, Shadcn/ui, Vercel, use-debounce, and JSON"
+	},
+	{
+		"name": "Web Projects App (original version)",
+		"url": "https://jdm-projects.netlify.app/",
+		"description": "This is a demo store built with React, Contentful (a Content Management System) and Tailwind CSS. Similar to the Web Projects App, this app was designed to showcase my latest web development projects. This app fetches data from Contentful's API. The store is hosted on Netlify.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/tdfvh3rUj6dzJYZ6yvg2p/5375a32950398f934f544a6385114807/jpmprojectscontentful.png",
+		"tags": "HTML, CSS, JavaScript, React, Contentful, CMS, Vite, Tailwind CSS, postCSS, nanoid, Netlify, and JSON"
+	},
+	{
+		"name": "urStore - online store App",
+		"url": "https://react-jdm-urstore.netlify.app/",
+		"description": "This is a demo store built with React, React Query, React Router and Redux. The store used the Vite framework and is a single page application. The store enables users registration - including guest user. Some of the other technologies used include Tailwind CSS, daisyUI for the UI components, and axios for the API calls. The store is hosted on Netlify and the data is fetched from strapi-store-server's api. The store is a simple e-commerce store with a list of products, a product detail page, a cart page, and ordering page.",
+		"featured": true,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/2QiBxcJpdDd3BcwS8kf3mm/f76db143b72477930e44ef548287fa45/urStore.png",
+		"tags": "HTML, CSS, JavaScript, React, React Router, Redux, React Query, Vite, Tailwind CSS, Daisy/ui, post CSS, Axios, Netlify, and JSON"
+	},
+	{
+		"name": "Drink Master App",
+		"url": "https://react-jdm-drinks.netlify.app/",
+		"description": "This is a React single-page app to fetch a list of drinks from thecocktaildb.com API. The user can search for a drink by name, or select a random drink. The app is built with React, React Query, and Vite. The app is hosted on Netlify and the data is fetched from the thecocktaildb.com API.",
+		"featured": true,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/56VPqy0tt0xVAooTq7U32V/050ce02e99238ea0c54fc1eb96c76345/drinks.png",
+		"tags": "HTML, CSS, JavaScript, React, React Router, Redux, React Query, Vite, Tailwind CSS, Daisy/ui, post CSS,  axios, Netlify, and JSON."
+	},
+	{
+		"name": "Dumb Dad Jokes App",
+		"url": "https://react-jdm-dumbdadjokes.netlify.app/",
+		"description": "This is a simple app which makes an API call to fetch a list of dad jokes. The user can click a button to get a new joke. The app is built with React, React Query, and Vite. The app is hosted on Netlify and the data is fetched from the icanhazdadjoke API.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/5B5AaTHoVjLKFwClLHNZAS/ccf9ff7b85924c6d8ae0dc9f319bc1b3/dumbdadjokes.png",
+		"tags": "HTML, CSS, JavaScript, React, React Query, Vite, Axios, and Netlify."
+	},
+	{
+		"name": "Search Images App",
+		"url": "https://react-jdm-usplash-images.netlify.app/",
+		"description": "This is a similar app to Unsplash, where users can search for images. This application enables the user to toggle between dark or light mode. This is a demo store built with React, React Query, React Query Dev tools and Axios. The app is hosted on Netlify and the data is fetched from the Unsplash API.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/7xshLRogkK7TEz8t7hFHI8/8e73152bf3b0d94f98b2cd94a929205d/unsplashimg.png",
+		"tags": "HTML, CSS, JavaScript, React, React Query, Vite, Axios, Unsplash API, and Netlify, and JSON."
+	},
+	{
+		"name": "Color Generator App",
+		"url": "https://react-jdm-color-generator.netlify.app/",
+		"description": "This is a color picker and generator app created with React.  The user can select a color and generate a list of shades of that color...and then copy and paste the selected color. The app is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/1OyuTBvtMdFmfCNEyxZ7D4/6acd319245d113699e30a27ad5248d26/colorgen.png",
+		"tags": "HTML, CSS, JavaScript, React, useState, toastify, nanoid, Netlify, and JSON."
+	},
+	{
+		"name": "Menu App",
+		"url": "https://react-jdm-menu.netlify.app/",
+		"description": "This is a menu app built with React. The app is designed to display a list of menu items and allow the user to filter the items by category. The app is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/15c4DJpbKkK31oXpFB0z51/ae032bd87c2b35004fd8027d6ab85266/menu.png",
+		"tags": "HTML, CSS, JavaScript, React, Netlify, useState, and Vite."
+	},
+	{
+		"name": "Blackjack App",
+		"url": "https://react-jdm-blackjack.netlify.app/",
+		"description": "This is a single - player blackjack game built with React. The game is designed for a player to play against themselves and allow the user to reset it and play again. The game is hosted on Netlify.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/5lUdgDiXeCuLwCuTQnfuBE/237c65d9e2631a4014dc905cab37385d/blackjack.png",
+		"tags": "HTML, CSS, JavaScript, React, Netlify useState and Vite."
+	},
+	{
+		"name": "Snappy Lorem Ipsum Generator App",
+		"url": "https://react-jdm-snappy-lorem-ipsum.netlify.app/",
+		"description": "This is a simple single page application built with React and Vite to generate a user-selected number of segments of alternative versions of the normal 'lorem' latin filler text. The page is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/5i7dPdE8Rq0mqhLScPUjaw/565fab5582e9ab0e6a0cafff4daf9d3b/snaplorem.png",
+		"tags": "HTML, CSS, JavaScript, React, Vite, Netlify, nanoid, JSON, and useState."
+	},
+	{
+		"name": "Redux Toolkit - Cart",
+		"url": "https://react-jdm-reduxtk-cart.netlify.app/",
+		"description": "This React app uses a few libraries to handle cart operations. The app uses Redux Toolkit to manage the state of the cart. It also uses immer to mutate the state, redux-thunk to handle async actions and reslect - which simplifies reducer functions. The app is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/1kmOOj0cdTVTNywOMdpLvp/847558a8db66eb359049a2bdf77bac6f/reduxcart.png",
+		"tags": "HTML, CSS, JavaScript, React, Redux, Redux Dev Tools, Netlify, Axios, JSON, useEffect and useState."
+	},
+	{
+		"name": "Simple Task Manager App",
+		"url": "https://ts-jdm-tasks.netlify.app/",
+		"description": "This is a simple task manager app built with React and TypeScript",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/2SxFIHieKXLpLXdlfsW0To/529543bc86b6efacaf8de81b374b16aa/ts-tasks.png",
+		"tags": "HTML, CSS, JavaScript, React, React Router, Redux, React Query, Vite, Tailwind CSS, Daisy/ui, post CSS,  axios, Netlify, and JSON."
+	},
+	{
+		"name": "FAQ Accordion Card App",
+		"url": "https://react-jdm-questions.netlify.app/",
+		"description": "This is a simple React page using figma design to load a series of questions and answers in an accordion card format. The page is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/4KHzv4nnKchcFyzCNDVKO6/5ef33c1afa7050056f81bb0acf96bc92/questions.png",
+		"tags": "HTML, CSS, JavaScript, React, Vite, Netlify, figma, JSON, and useState."
+	},
+	{
+		"name": "Tour Places App",
+		"url": "https://react-jdm-backroads-app.netlify.app/",
+		"description": "This is a demo tours page built with React. The page is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/21qjXZfnpbtY3GcNVyQBxU/798b0c5a132ac4defa389c1ef9c0863b/tours.png",
+		"tags": "HTML, CSS, JavaScript, React, Vite, Netlify, and JSON."
+	},
+	{
+		"name": "Review Carousel Card App",
+		"url": "https://react-jdm-reviews.netlify.app/",
+		"description": "This is a simple page using React to load a series of reviews of people in a carousel card format. The page is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/2HGratd7C2ODGeQ07nsPtB/44276f702d0621ae507bd1dd071e3cd3/reviews.png",
+		"tags": "HTML, CSS, JavaScript, React, Vite, Netlify, and JSON."
+	},
+	{
+		"name": "Simple Best Selling Book Page",
+		"url": "https://react-jdm-bestsellerbooklist.netlify.app/",
+		"description": "This is a simple page using React to load a series of best selling book images. The page is hosted on Netlify and the data is fetched from a JSON file.",
+		"featured": false,
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/55Y5LuIpQ6GGbbgw50ISxr/c6acad1351c65bebbaa9058033fb685f/bestsellers2.png",
+		"tags": "HTML, CSS, JavaScript, React, Netlify, and Vite."
+	}
+]
