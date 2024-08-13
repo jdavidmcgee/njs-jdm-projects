@@ -1565,9 +1565,7 @@ export default SingleProductPage;
 - double check .gitignore
 - update package.json
 
-git remote add origin https://github.com/jdavidmcgee/nextStore.git
-git branch -M main
-git push -u origin main
+
 
 ```json
 "scripts": {
@@ -1585,6 +1583,8 @@ rm -rf .git
 git init
 git add .
 git commit -m "first commit"
+
+- then paste the three commands from github (as normal)
 ```
 
 - deploy on vercel

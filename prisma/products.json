@@ -9,10 +9,10 @@
 	},
 	{
 		"name": "Web Projects App (this app)",
-		"url": "https://next-store-beta-neon.vercel.app/",
+		"url": "https://njs-jdm-projects.vercel.app/",
 		"description": "This is a FSSD application with Next.js, React (with TypeScript), Prisma and MongoDB.  This app designed to show the projects that I've been working on during the past year. This app uses server-side rendering, static site generation, and incremental static regeneration.  Some of the other technologies used include Tailwind CSS, Shadcn/ui and Radix (both are open-sourced component library) for created components. The store is hosted on Vercel.",
 		"featured": false,
-		"image": "https://images.ctfassets.net/a9vq00s7s4xj/ycQjiqSt27hwf04WKsZRl/21656682f37e87674f54cbcdc855c644/nextjsStore.png",
+		"image": "https://images.ctfassets.net/a9vq00s7s4xj/1dIVvZZ2KhOenO9lbrtrKP/5c93ef6e7e3a5639e8d9b029960e6b3b/nextjsjdmprojects.png",
 		"tags": "HTML, CSS, JavaScript, React, TypeScript, Prisma, Supabase DB, Vite, Tailwind CSS, post CSS, Radix, Clerk, Shadcn/ui, Vercel, use-debounce, and JSON"
 	},
 	{
