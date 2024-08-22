@@ -13,9 +13,8 @@ function Hero() {
 				<p className="mt-8 font-semibold text-3xl text-slate-500 capitalize tracking-wide">
 					Full Stack Developer
 				</p>
-				<p className="mt-8 text-lg text-slate-500 capitalize tracking-wide">
-					Creating beautiful web applications built with the latest
-					technologies and frameworks.
+				<p className="mt-8 text-lg text-slate-500  tracking-wide">
+					Creating beautiful web applications with the skill and experience to effectively integrate and communicate across all levels of an organization.
 				</p>
 				<div className="flex gap-x-4 mt-4">
 					<a href="https://github.com/jdavidmcgee" target="_blank">
@@ -30,12 +29,23 @@ function Hero() {
 						/>
 					</a>
 				</div>
-				<Button asChild size="lg" className="mt-10">
-					<Link href="/projects">My Projects</Link>
-				</Button>
-				<Button asChild size="lg" className="ml-10 mt-10">
-					<Link href="/skills">My Tech Skills</Link>
-				</Button>
+				<div className=" mt-4">
+					<Button asChild size="default" className="mt-10">
+						<Link
+							href="https://eportfolio.mygreatlearning.com/david-mcgee"
+							target="_blank">
+							UT Austin FSSD Projects
+						</Link>
+					</Button>
+				</div>
+				<div className="flex gap-x-4 mt-4">
+					<Button asChild size="default" className="mt-5">
+						<Link href="/projects">Additional Projects</Link>
+					</Button>
+					<Button asChild size="default" className="mt-5">
+						<Link href="/skills">Tech Skills</Link>
+					</Button>
+				</div>
 			</div>
 			<HeroCarousel />
 		</section>
