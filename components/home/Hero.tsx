@@ -14,7 +14,7 @@ function Hero() {
 					Full Stack Developer
 				</p>
 				<p className="mt-8 text-lg text-slate-500  tracking-wide">
-					Creating beautiful web applications with the skill and experience to effectively integrate and communicate across all levels of an organization.
+					Creating modern web applications with the skill and experience to effectively communicate across all levels of an organization.
 				</p>
 				<div className="flex gap-x-4 mt-4">
 					<a href="https://github.com/jdavidmcgee" target="_blank">
